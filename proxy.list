@@ -1,2 +1,9 @@
 DOMAIN-SUFFIX,movie-pilot.org
 DOMAIN-SUFFIX,services.gradle.org
+
+#PT站点
+DOMAIN-SUFFIX,btschool.club
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,hhanclub.net
+#机场
+DOMAIN-SUFFIX,liangxin.xyz
